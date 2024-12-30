@@ -1,5 +1,6 @@
 # SQL
 author-Aditya Ghige
+<br>
 Student Mental Health Management System
 This project is a relational database system designed to manage students' mental health assessments, counselor appointments, and school-related information. It provides a structured framework for tracking mental health scores, facilitating counseling services, and ensuring students receive the support they need.
 
